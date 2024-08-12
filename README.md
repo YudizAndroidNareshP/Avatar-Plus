@@ -158,3 +158,6 @@ Contributions are welcome! Please open an issue or submit a pull request on the 
 ## Support
 
 If you encounter any issues or have questions, feel free to open an issue on [GitHub](https://github.com/YudizAndroidNareshP/Avatar-Plus/issues).
+
+## Visitors Count 
+<img align="left" src = "https://profile-counter.glitch.me/Avatar-Plus/count.svg" alt ="Loading">
