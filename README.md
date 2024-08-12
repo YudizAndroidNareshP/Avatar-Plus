@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/development/screenshots/banner.png)
+
 ![GitHub code size](https://img.shields.io/github/languages/code-size/YudizAndroidNareshP/Avatar-Plus)
 [![All Contributors](https://img.shields.io/github/all-contributors/YudizAndroidNareshP/Avatar-Plus)](#contributors-)
 [![Pub](https://img.shields.io/pub/v/avatar_plus.svg)](https://pub.dartlang.org/packages/avatar_plus)
