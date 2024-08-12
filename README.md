@@ -6,7 +6,7 @@
 
 # Avatar Plus #
 
-<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/development/screenshots/logo.gif?v=001" width="75">
+<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/logo.gif?v=001" width="75">
 
 **Avatar Plus** is a Flutter package that allows you to generate and customize unique avatars easily. With up to **12 billion unique avatars** possible, this package is perfect for creating profile pictures, gaming logos, or adding personalized touches to your design projects.
 
@@ -19,7 +19,7 @@
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/development/screenshots/demo.gif?v=001" width="120">
+<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/demo.gif?v=001" width="120">
 
 ## Sample Code
 
