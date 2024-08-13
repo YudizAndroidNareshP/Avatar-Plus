@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/logo.gif?v=001" width="75">
 
-**Avatar Plus** is a Flutter package that allows you to generate and customize unique avatars easily. With up to **12 billion unique avatars** possible, this package is perfect for creating profile pictures, gaming logos, or adding personalized touches to your design projects.
+**Avatar Plus** is a Flutter wrapper for [Multiavatar](https://multiavatar.com) that allows you to generate and customize unique avatars easily. With up to **12 billion unique avatars** possible, this package is perfect for creating profile pictures, gaming logos, or adding personalized touches to your design projects.
 
 ## Features
 
