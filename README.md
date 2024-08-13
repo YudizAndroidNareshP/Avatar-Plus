@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/banner.png)
 
+[![pub package](https://img.shields.io/pub/v/avatar_plus.svg)](https://pub.dev/packages/avatar_plus)
+[![package publisher](https://img.shields.io/pub/publisher/avatar_plus.svg)](https://pub.dev/packages/avatar_plus/publisher)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/YudizAndroidNareshP/Avatar-Plus)
-[![All Contributors](https://img.shields.io/github/all-contributors/YudizAndroidNareshP/Avatar-Plus)](#contributors-)
-[![Pub](https://img.shields.io/pub/v/avatar_plus.svg)](https://pub.dartlang.org/packages/avatar_plus)
 
 # Avatar Plus #
 
@@ -19,7 +19,9 @@
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/demo.gif?v=001" width="120">
+| <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/demo.gif" width="240"/> | <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/screen-1.png" width="240"/> | <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/screen-2.png" width="240"/>|
+|:----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                  `'Screen 1'`                                                  |                                                    `'Screen 3'`                                                     |                                                     `'Screen 2'`                                                     |
 
 ## Sample Code
 
