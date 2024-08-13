@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/development/screenshots/banner.png)
+![](https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/banner.png)
 
 [![pub package](https://img.shields.io/pub/v/avatar_plus.svg)](https://pub.dev/packages/avatar_plus)
 [![package publisher](https://img.shields.io/pub/publisher/avatar_plus.svg)](https://pub.dev/packages/avatar_plus/publisher)
@@ -6,7 +6,7 @@
 
 # Avatar Plus #
 
-<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/development/screenshots/logo.gif?v=001" width="75">
+<img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/logo.gif?v=001" width="75">
 
 **Avatar Plus** is a Flutter package that allows you to generate and customize unique avatars easily. With up to **12 billion unique avatars** possible, this package is perfect for creating profile pictures, gaming logos, or adding personalized touches to your design projects.
 
@@ -21,7 +21,7 @@
 
 | <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/demo.gif" width="240"/> | <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/screen-1.png" width="240"/> | <img src="https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/screen-2.png" width="240"/>|
 |:----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                  `'Screen 1'`                                                  |                                                    `'Screen 3'`                                                     |                                                     `'Screen 2'`                                                     |Z
+|                                                  `'Screen 1'`                                                  |                                                    `'Screen 3'`                                                     |                                                     `'Screen 2'`                                                     |
 
 ## Sample Code
 
