@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "YudizAndroidNareshP",
+      "name": "YudizAndroidNaresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141625205?v=4",
+      "profile": "https://www.linkedin.com/in/naresh-prajapati-14a781130",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Avatar-Plus",
+  "projectOwner": "YudizAndroidNareshP"
+}

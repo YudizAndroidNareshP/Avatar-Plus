@@ -1,4 +1,7 @@
 ![](https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/banner.png)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![pub package](https://img.shields.io/pub/v/avatar_plus.svg)](https://pub.dev/packages/avatar_plus)
 [![package publisher](https://img.shields.io/pub/publisher/avatar_plus.svg)](https://pub.dev/packages/avatar_plus/publisher)
@@ -147,6 +150,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/naresh-prajapati-14a781130"><img src="https://avatars.githubusercontent.com/u/141625205?v=4?s=100" width="100px;" alt="YudizAndroidNaresh"/><br /><sub><b>YudizAndroidNaresh</b></sub></a><br /><a href="#infra-YudizAndroidNareshP" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/YudizAndroidNareshP/Avatar-Plus/commits?author=YudizAndroidNareshP" title="Tests">⚠️</a> <a href="https://github.com/YudizAndroidNareshP/Avatar-Plus/commits?author=YudizAndroidNareshP" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
