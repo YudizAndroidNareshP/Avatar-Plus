@@ -1,7 +1,4 @@
 ![](https://raw.githubusercontent.com/YudizAndroidNareshP/Avatar-Plus/main/screenshots/banner.png)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![pub package](https://img.shields.io/pub/v/avatar_plus.svg)](https://pub.dev/packages/avatar_plus)
 [![package publisher](https://img.shields.io/pub/publisher/avatar_plus.svg)](https://pub.dev/packages/avatar_plus/publisher)
@@ -148,6 +145,10 @@ Widget svgWidget = AvatarPlus("Jonny", trBackground: true, height: 100, width: 1
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
