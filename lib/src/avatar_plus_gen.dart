@@ -25,7 +25,7 @@ class AvatarPlusGen {
     String svgEnd = '</svg>';
 
     String hash = '';
-    if (string.length == 0) return hash;
+    if (string.isEmpty) return hash;
 
     List<int> bytes1 = utf8.encode(string);
     Digest sha256Hash = sha256.convert(bytes1);

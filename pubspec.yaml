@@ -3,10 +3,30 @@ description: A versatile Flutter package for generating and displaying customiza
 version: 0.0.1
 homepage: https://github.com/YudizAndroidNareshP/Avatar-Plus
 documentation: https://github.com/YudizAndroidNareshP/Avatar-Plus
+issue_tracker: https://github.com/YudizAndroidNareshP/Avatar-Plus/issues
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
   flutter: ">=1.17.0"
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+topics:
+  - avatar-generation
+  - flutter-avatar
+  - profile-picture
+  - svg-avatars
+  - random-avatar
+
+screenshots:
+  - description: A versatile Flutter package for generating and displaying customizable avatars with random string content.
+    path: screenshots/logo.gif
 
 dependencies:
   flutter:
@@ -17,3 +37,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  lints: ^4.0.0
