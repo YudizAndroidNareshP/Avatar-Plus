@@ -1,3 +1,6 @@
+## 0.0.5
+* Added support for sdk: '>=2.18.0 <4.0.0'
+
 ## 0.0.4
 * Update readme.md.
 
